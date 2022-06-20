@@ -1,0 +1,27 @@
+{
+    "total_count": 1,
+    "incomplete_results": false,
+    "items": [
+      {
+        "login": "dcstone09",
+        "id": 4305532,
+        "node_id": "MDQ6VXNlcjQzMDU1MzI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4305532?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dcstone09",
+        "html_url": "https://github.com/dcstone09",
+        "followers_url": "https://api.github.com/users/dcstone09/followers",
+        "following_url": "https://api.github.com/users/dcstone09/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dcstone09/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dcstone09/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dcstone09/subscriptions",
+        "organizations_url": "https://api.github.com/users/dcstone09/orgs",
+        "repos_url": "https://api.github.com/users/dcstone09/repos",
+        "events_url": "https://api.github.com/users/dcstone09/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dcstone09/received_events",
+        "type": "User",
+        "site_admin": false,
+        "score": 1.0
+      }
+    ]
+}

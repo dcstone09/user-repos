@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Github User Repos
 
-## Getting Started
+Found at https://dcstone09.github.io/user-repos/
 
-First, run the development server:
+## Description 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+A webapp to search for user's repos
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to run
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Install
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+```npm install```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Run
 
-## Learn More
+```npm run dev```
 
-To learn more about Next.js, take a look at the following resources:
+### Test
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```npm run test```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Deploy
 
-## Deploy on Vercel
+```npm run deploy```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Future Updates
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* More through tests in the form of unit tests
+* Loading states
+* An error context with a snackbar for feedback
+* Error boundry for application
+* Deployments with github actions
